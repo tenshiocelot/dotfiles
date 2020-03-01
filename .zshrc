@@ -101,6 +101,7 @@ source $ZSH/oh-my-zsh.sh
  alias netbeans=" Programs/netbeans/bin/netbeans"
  alias dotfiles="/usr/bin/git --git-dir=$HOME/.dotfiles.git/ --work-tree=$HOME"
  alias loia="echo ta loia pou emeinan sta loia"
+ alias cl="clear"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
