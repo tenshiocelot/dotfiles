@@ -103,6 +103,10 @@ source $ZSH/oh-my-zsh.sh
  alias loia="echo ta loia pou emeinan sta loia"
  alias cl="clear"
  alias list="ll -a"
+
+# Windows ubuntu terminal aliases
+ alias projects="/mnt/c/Users/The\ Ocelot/Desktop/projects"
+
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
